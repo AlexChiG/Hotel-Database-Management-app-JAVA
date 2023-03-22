@@ -2,21 +2,15 @@
 
 \~Gestiunea unui Hotel\~
 
-Coordonator,
+Coordonator,  Profesor Dan MUNTEANU
 
-Profesor Dan MUNTEANU
-
-Student,
-
-Chitiga Alexandru Gabriel
+Student,  Chitiga Alexandru Gabriel
 
 ANUL III CTI
-
 GRUPA 22C32 A
-
 AN 2022-2023
 
-Proiect Baze de date
+# Proiect Baze de date
 
 **Cuprins**
 
