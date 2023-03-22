@@ -1,4 +1,4 @@
-Proiect Baze de Date
+# Proiect Baze de Date
 
 \~Gestiunea unui Hotel\~
 
