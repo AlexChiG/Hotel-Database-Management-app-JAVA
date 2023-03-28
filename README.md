@@ -2,8 +2,6 @@
 
 \~Gestiunea unui Hotel\~
 
-Coordonator,  Profesor Dan MUNTEANU
-
 Student,  Chitiga Alexandru Gabriel
 
 ANUL III CTI
